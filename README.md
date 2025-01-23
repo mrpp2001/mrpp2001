@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with AgSpeak <br>🌱 I’m currently learning Node JS<br>💬 Ask me about React<br>⚡ Fun fact - I am a Gamer
+🔭 I’m currently working with AgSpeak <br>🌱 I’m currently learning AI<br>💬 Ask me about React<br>⚡ Fun fact - I am a Gamer
 
 
 ## 🌐 Socials:
