@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Startup Idea<br>🌱 I’m currently Building AI Integrations<br>💬 Ask me about AI<br>⚡ Fun fact - I am a Gamer
+🔭 I’m currently working with Startup<br>🌱 I’m currently Building AI Integrations<br>💬 Ask me about AI<br>⚡ Fun fact - I am a Gamer
 
 
 ## 🌐 Socials:
